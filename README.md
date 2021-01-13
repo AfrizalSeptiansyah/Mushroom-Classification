@@ -1,1 +1,1 @@
-# Mushroom-Classification
+# Mushroom-Classification-with-Logistic-Regression
